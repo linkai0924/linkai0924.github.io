@@ -55,3 +55,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 
+.idea/linkai0924.github.io.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
