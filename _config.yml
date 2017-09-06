@@ -27,7 +27,13 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  enable_coderay: true
   syntax_highlighter: rouge
+
 theme: minima
 plugins:
   - jekyll-feed
