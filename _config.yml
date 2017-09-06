@@ -23,7 +23,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  linkai0924
 
 # Build settings
+highlighter: rouge
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 theme: minima
 plugins:
   - jekyll-feed
