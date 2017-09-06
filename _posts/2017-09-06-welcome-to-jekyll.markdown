@@ -1,27 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-09-06 08:19:52 +0800
-categories: test
+title:  "开篇，缘起"
+date:   2017-09-06 09:42:52 +0800
+categories: 札记
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+今天用Jekyll搭了个博客，简单说下最近的感想
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+最近翻了翻招聘网站，java后端这个岗位上各互联网大厂招人都一个趋势，要会BigData技术栈有相关经验；要有深度学习基础，有所了解。不禁感概时代的变迁，程序员这个行业也是瞬息万变。唯一能做的就是砥砺前行，不忘初心的去学习和完善自己，永远没有终点
 
-Jekyll also offers powerful support for code snippets:
-
-~~~
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-~~~
-
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
